@@ -1,0 +1,64 @@
+body { 
+    font-family: "Open Sans",sans-serif;
+    color: #fff;   
+    background-color: #1d1d1d;
+    margin-top: 0px;
+    margin-left: 0px;
+    overflow: hidden;
+}
+.navigationBar{
+    background-color: blue;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    z-index: 1;
+    height: 3.5vw;
+    min-height: 70px;
+}
+#insideNav {
+    padding-top: 0.5vw;
+}
+#insideNav button{
+    font-size: large;
+    background-color: #1d1d1d;
+    color: #fff;
+    border-color: #1d1d1d;
+    border-radius: 7%;
+    height: 50px;
+    width: 150px;
+    box-shadow: 1px 2px #161616;
+}
+#insideNav button:hover{
+    color: aqua;
+    border-color: #161616;
+    background-color: #161616;
+    box-shadow: none;
+}
+.arrContainer{
+    position: fixed;
+    top: 50px;
+    
+}
+
+#arrChild{
+    height: 2vw;
+    width: 4000px;
+}
+
+.arrChildNew{
+    background-color: gray;
+    float: left;
+    padding: 1px;
+    font-size: 1vh;
+    border: solid 1px black;
+    width: 2px;
+    max-width: 2px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: aqua;
+    cursor:default;
+}
