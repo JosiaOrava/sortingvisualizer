@@ -4,7 +4,7 @@ I did this project on my own time at the start of the first year of school to le
 
 It generates array of pillars of different length and then uses quicksort algorithm to sort them.
 
-The arrays and visuals were made completely by me and quicksort was made with help of documentation of how that algorithm worked.
+The array generation and visuals were made completely by me and quicksort was made with help of documentation of how that algorithm worked.
 
 # What I learned
 
