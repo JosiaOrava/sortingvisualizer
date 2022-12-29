@@ -8,7 +8,7 @@ The array generation and visuals were made completely by me and quicksort was ma
 
 # What I learned
 
-This was first time for me to handle algorithm and I think quicksort was a good beginner frendly algorithm and also I learned about asynchronous functions in js.
+This was first time for me to handle algorithm and I think quicksort was a good beginner frendly algorithm to start with.I also learned about asynchronous functions in js.
 
 # Link to page
 You can test the project hosted on my github page https://josiaorava.github.io/sortingvisualizer/
