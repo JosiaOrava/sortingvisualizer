@@ -1,5 +1,5 @@
 # Sortingvisualizer
-![photo of project]()
+![photo of project](https://github.com/JosiaOrava/sortingvisualizer/blob/main/sorting.png)
 I did this project on my own time at the start of the first year of school to learn more about javascript.
 
 It generates array of pillars of different length and then uses quicksort algorithm to sort them.
